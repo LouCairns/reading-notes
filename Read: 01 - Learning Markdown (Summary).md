@@ -23,7 +23,7 @@ Depending on the application you use, you may not be able to preview the formatt
 You might be wondering why people use Markdown instead of a WYSIWYG editor. Why write with Markdown when you can press buttons in an interface to format your text? As it turns out, there are several reasons why people use Markdown instead of WYSIWYG editors.
 
 - **Markdown can be used for everything.**   
-People use it to create 
+People use it to create: 
     - websites
     - documents
     - notes
@@ -81,6 +81,7 @@ There are 6 heading levels in Markdown, each demonstrated below:
 ###### Heading level 6
 
 ### 6 - When making text bold or italicized for emphasis, it is best practice to use which symbol?
+***
 
 Whilst underscores can be used to create bold or italicized text, best practice is to use asterisks. This is because Markdown applications do not agree on how to handle underscores in the middle of a word. For compatability asterisks are used.
 
