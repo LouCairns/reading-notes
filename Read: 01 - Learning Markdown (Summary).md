@@ -1,6 +1,7 @@
 # Read: 01 - Learning Markdown SUMMARY
 
 ## What is Markdown?
+***
 
 >Markdown is a lightweight markup language for creating formatted text using a plain-text editor.   
 >
