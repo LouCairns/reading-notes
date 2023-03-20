@@ -133,4 +133,24 @@ My favourite search engine is [Duck Duck Go](https://duckduckgo.com)
 ### 8 - What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 ***
 
+To create an unordered list, add dashes (-), asterisks (*), or plus signs (+) in front of line items.
+
+Markdown applications don’t agree on how to handle different delimiters in the same list. For compatibility, don’t mix and match delimiters in the same list — pick one and stick with it.
+
+So this:
+```
+- Item 1
+- Item 2
+- Item 3
+- Item 4
+```
+
+would be preferable to:
+
+```
+- Item 1
++ Item 2
+* Item 3
+- Item 4
+```
 
