@@ -26,7 +26,7 @@ For now, take notes on how commands are used, and which look similar to how you 
 ### 2 - What do the following commands do?
 - pwd
 - ls
-- - cd
+- cd
 - mkdir
 - touch
     
