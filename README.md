@@ -8,6 +8,7 @@
 ***
 ### 1. Intro to Lou
 
+Find my Repo [HERE]()
 I have previously worked as a Project Manager in transport, construction and business change. There is not a lot of my kind of project work in Peterborough, where I now live, so am looking to add some more strings to my bow. Hopefully this course will lead to a career change that will be more flexible around my young family.
 
 Outside of work I enjoy:
@@ -18,4 +19,13 @@ Outside of work I enjoy:
 
 This is a pic of me pre-children. **Eyebrows were illegal** and I lived on diet coke & marlborough lights...
 ![Image of Lou Cairns](https://www.ltmuseum.co.uk/system/files/styles/collection_item_component_600_px_wide/private/collection_item/i0000vfx_0.jpg?itok=5fqrLwPb)
+***
+### 2. Growth Mindset Overview
 
+A growth mindset is a belief that intelligence and abilities can be improved with effort, education, and learning. 
+
+People with a growth mindset face challenges and setbacks with resilience, passion, and constructive criticism. 
+
+They think that their brain can evolve and respond to experiences over time. 
+
+This is different from a fixed mindset, which assumes that intelligence and talent are not changeable
