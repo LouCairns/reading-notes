@@ -21,7 +21,6 @@ Depending on the application you use, you may not be able to preview the formatt
 ***
 
 
-
 Note entry ideas:
 
 Blog Article (2-3 paragraphs with code sample)
