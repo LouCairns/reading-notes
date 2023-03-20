@@ -10,6 +10,12 @@
 
 I have previously worked as a Project Manager in transport, construction and business change. There is not a lot of my kind of project work in Peterborough, where I now live, so am looking to add some more strings to my bow. Hopefully this course will lead to a career change that will be more flexible around my young family.
 
-This is a pic of me pre-children. Eyebrows were illegal and I lived on diet coke & marlborough lights...
+Outside of work I enjoy:
+- DIY (I am renovating my house by myself so am learning lots of new skills!)
+- Re-finishing furniture (Keeps the costs down when living in a reno!)
+- Trawling charity shops
+- Cooking and eating lovely food!
+
+This is a pic of me pre-children. **Eyebrows were illegal** and I lived on diet coke & marlborough lights...
 ![Image of Lou Cairns](https://www.ltmuseum.co.uk/system/files/styles/collection_item_component_600_px_wide/private/collection_item/i0000vfx_0.jpg?itok=5fqrLwPb)
 
