@@ -17,6 +17,8 @@ For now, take notes on how commands are used, and which look similar to how you 
 - [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
 - [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
 
+### QUESTIONS & ANSWERS
+
 
 Answer
 
