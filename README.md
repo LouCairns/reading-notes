@@ -34,8 +34,8 @@ They think that their brain can evolve and respond to experiences over time.
 
 This is different from a fixed mindset, which assumes that intelligence and talent are not changeable
 
->Growth is painful.
->Change is Painful.
->But nothing is as painful as staying somewhere you don't belong.
+>Growth is painful.  
+>Change is Painful.  
+>But nothing is as painful as staying somewhere you don't belong.  
 >-Mandy Hale
 
