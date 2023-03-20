@@ -43,6 +43,6 @@ This is different from a fixed mindset, which assumes that intelligence and tale
 
 ### 3. Growth Mindset Reminders
 
-1. Always believe that something *wonderful* it about to happen.  
+1. Always believe that something *wonderful* is about to happen.  
 2. Stop waiting to live.  
 3. Be the BEST version of yourself.  
