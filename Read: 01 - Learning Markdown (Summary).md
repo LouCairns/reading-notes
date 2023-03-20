@@ -50,11 +50,12 @@ In order to create a heading you will use the '#' symbol, followed by a space an
 
 So, to write a heading, in bold, that reads "I AM A LOVELY BIG HEADING" you would see the following code
 
->    `### **I AM A LOVELY BIG HEADING**`
+    `### **I AM A LOVELY BIG HEADING**`
 
 Which will present like this when rendered:
 
 ### **I AM A LOVELY BIG HEADING**
+
 
 ### 4 & 5 - How many `#` do you need to create the largest heading and the smallest heading?
 ***
@@ -78,6 +79,45 @@ There are 6 heading levels in Markdown, each demonstrated below:
 
 `###### Heading level 6`     
 ###### Heading level 6
+
+### 6 - When making text bold or italicized for emphasis, it is best practice to use which symbol?
+
+Whilst underscores can be used to create bold or italicized text, best practice is to use asterisks. This is because Markdown applications do not agree on how to handle underscores in the middle of a word. For compatability asterisks are used.
+
+To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters. 
+
+`I love **bold text**`
+
+would render as:
+
+I love **bold text**
+
+To italicize text, add one asterisk or underscore before and after a word or phrase. 
+
+`I love *italicized text*`
+
+would render as: 
+
+I love *italicized text*
+
+To emphasize text with bold and italics at the same time, add three asterisks before and after a word or phrase. 
+
+`I love ***bold italicized text***`
+
+would render as:
+
+I love ***bold italicized text***
+
+To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
+
+`I love **bold*italicized*text**`
+
+would render as:
+
+I love **bold*italicized*text**
+
+
+
 
 
 Note entry ideas:
