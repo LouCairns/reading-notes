@@ -85,7 +85,7 @@ There are 6 heading levels in Markdown, each demonstrated below:
 
 Whilst underscores can be used to create bold or italicized text, best practice is to use asterisks. This is because Markdown applications do not agree on how to handle underscores in the middle of a word. For compatability asterisks are used.
 
-To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters. 
+###### To bold text, add two asterisks or underscores before and after a word or phrase. To bold the middle of a word for emphasis, add two asterisks without spaces around the letters. 
 
 `I love **bold text**`
 
@@ -93,7 +93,7 @@ would render as:
 
 I love **bold text**
 
-To italicize text, add one asterisk or underscore before and after a word or phrase. 
+###### To italicize text, add one asterisk or underscore before and after a word or phrase. 
 
 `I love *italicized text*`
 
@@ -101,7 +101,7 @@ would render as:
 
 I love *italicized text*
 
-To emphasize text with bold and italics at the same time, add three asterisks before and after a word or phrase. 
+###### To emphasize text with bold and italics at the same time, add three asterisks before and after a word or phrase. 
 
 `I love ***bold italicized text***`
 
@@ -109,13 +109,16 @@ would render as:
 
 I love ***bold italicized text***
 
-To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
+###### To bold and italicize the middle of a word for emphasis, add three asterisks without spaces around the letters.
 
 `I love **bold*italicized*text**`
 
 would render as:
 
 I love **bold*italicized*text**
+
+### How do you create a link with Markdown?
+***
 
 
 
