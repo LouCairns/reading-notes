@@ -50,7 +50,7 @@ In order to create a heading you will use the '#' symbol, followed by a space an
 
 So, to write a heading, in bold, that reads "I AM A LOVELY BIG HEADING" you would see the following code
 
-    `### **I AM A LOVELY BIG HEADING**`
+>    `### **I AM A LOVELY BIG HEADING**`
 
 Which will present like this when rendered:
 
