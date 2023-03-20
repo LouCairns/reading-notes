@@ -2,9 +2,10 @@
 ***
 ### Document Content
 
-1. Intro
-2. About
-3. Growth Mindset
+1. Intro to Lou
+2. Growth Mindset Overview
+3. Growth Mindset Reminders
+***
+### 1. Intro to Lou
 
-### 1. Intro
 
