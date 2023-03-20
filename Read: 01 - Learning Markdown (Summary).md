@@ -22,7 +22,7 @@ Depending on the application you use, you may not be able to preview the formatt
 
 You might be wondering why people use Markdown instead of a WYSIWYG editor. Why write with Markdown when you can press buttons in an interface to format your text? As it turns out, there are several reasons why people use Markdown instead of WYSIWYG editors.
 
-- **Markdown can be used for everything.** 
+- **Markdown can be used for everything.**   
 People use it to create 
     - websites
     - documents
@@ -44,9 +44,9 @@ People use it to create
 - **Markdown is everywhere.**  
     Websites like Reddit and GitHub support Markdown, and lots of desktop and web-based applications support it.
 
-### What symbol will create a heading in Markdown?
+### 3 - What symbol will create a heading in Markdown?
 ***
-
+In order to create a heading you will use the '#' symbol
 
 Note entry ideas:
 
