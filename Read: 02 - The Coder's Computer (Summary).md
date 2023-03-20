@@ -22,13 +22,26 @@ For now, take notes on how commands are used, and which look similar to how you 
 
 ### 1 - What are four important features to look for in a text editor?
 
+1. code completion  
+2. syntax highlighting   
+3. a nice variety of themes (to reduce eye strain and fatigue)  
+4. the ability to choose from a healthy selection of extensions available when you need them  
 
 ### 2 - What do the following commands do?
-- pwd
-- ls
-- cd
-- mkdir
-- touch
+- pwd  
+    Print Working Directory. It tells you what your current or present working directory is.
+    
+- ls  
+    To find out our current location
+    
+- cd  
+    To change a directory.
+    
+- mkdir  
+    To make a directory
+    
+- touch  
+    The touch command is used to create, change and modify timestamps of a file
     
 ### 3 - Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?
 (Arguments are extra instructions given to a command.)
