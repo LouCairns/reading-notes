@@ -46,7 +46,9 @@ People use it to create
 
 ### 3 - What symbol will create a heading in Markdown?
 ***
-In order to create a heading you will use the '#' symbol
+In order to create a heading you will use the '#' symbol, followed by a space and then the name of your heading.  
+
+So, to write a heading, in bold, that reads "I AM A LOVELY BIG HEADING" you would see the following
 
 Note entry ideas:
 
