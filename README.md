@@ -1,6 +1,6 @@
 # reading-notes
-
-## Document Content
+***
+### Document Content
 
 1. Intro
 2. About
