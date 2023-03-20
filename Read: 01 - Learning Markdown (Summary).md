@@ -48,7 +48,15 @@ People use it to create
 ***
 In order to create a heading you will use the '#' symbol, followed by a space and then the name of your heading.  
 
-So, to write a heading, in bold, that reads "I AM A LOVELY BIG HEADING" you would see the following
+So, to write a heading, in bold, that reads "I AM A LOVELY BIG HEADING" you would see the following code
+
+    `### **I AM A LOVELY BIG HEADING**`
+
+Which will present like this when committed:
+
+### **I AM A LOVELY BIG HEADING**
+
+
 
 Note entry ideas:
 
