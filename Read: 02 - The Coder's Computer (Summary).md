@@ -46,10 +46,19 @@ For now, take notes on how commands are used, and which look similar to how you 
 ### 3 - Can you explain what is happening in the following scenario if these commands and arguments are entered into the command line?
 (Arguments are extra instructions given to a command.)
 
-- cd projects
-- mkdir new-project
-- touch new-project/newfile.md
-- cd ..
-- ls projects/new-project
+- cd projects  
+    Would change my current working directory to "projects"
+    
+- mkdir new-project  
+    Would create a new directory within "projects", called "new-project"
+    
+- touch new-project/newfile.md  
+    Would create a new blank markdown file called "newfile.md" within the "new project" directory
+    
+- cd ..  
+    Would change my current working directory to that one level above  
+    
+- ls projects/new-project  
+    Would list the contents of the "new-project"  directory
     
     
