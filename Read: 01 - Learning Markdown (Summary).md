@@ -117,7 +117,7 @@ would render as:
 
 I love **bold*italicized*text**
 
-### How do you create a link with Markdown?
+### 7 - How do you create a link with Markdown?
 ***
 
 To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and then follow it immediately with the URL in parentheses (e.g., (https://duckduckgo.com)).
@@ -126,28 +126,11 @@ To create a link, enclose the link text in brackets (e.g., [Duck Duck Go]) and t
 My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
 ```
 
+The rendered output looks like this:
+
+My favourite search engine is [Duck Duck Go](https://duckduckgo.com)
+
+### 8 - What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+***
 
 
-
-Note entry ideas:
-
-Blog Article (2-3 paragraphs with code sample)
-Dictionary / Flash Cards
-Notes in outline form
-Fill-in-the-blank worksheet of key concepts
-Read and Bookmark
-Getting Started
-Read only “What is Markdown” and “Why Use Markdown” sections
-Markdown Basic Syntax
-Mastering Markdown on GitHub
-Watch
-GitHub Pages
-Answer
-What is Markdown?
-Why do we use Markdown?
-What symbol will create a heading in Markdown?
-How many do you need to create the largest heading?
-How many do you need to create the smallest heading?
-When making text bold or italicized for emphasis, it is best practice to use which symbol?
-How do you create a link with Markdown?
-What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
