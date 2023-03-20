@@ -21,6 +21,7 @@ Outside of work I enjoy:
 - Cooking and eating lovely food!
 
 This is a pic of me pre-children. **Eyebrows were illegal** and I lived on diet coke & marlborough lights...
+
 ![Image of Lou Cairns](https://www.ltmuseum.co.uk/system/files/styles/collection_item_component_600_px_wide/private/collection_item/i0000vfx_0.jpg?itok=5fqrLwPb)
 ***
 
@@ -38,8 +39,9 @@ This is different from a fixed mindset, which assumes that intelligence and tale
 >Change is Painful.  
 >But nothing is as painful as staying somewhere you don't belong.  
 >-Mandy Hale
+***
 
-### 2. Growth Mindset Reminders
+### 3. Growth Mindset Reminders
 
 1. Always believe that something *wonderful* it about to happen.  
 2. Stop waiting to live.  
