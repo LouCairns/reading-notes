@@ -23,13 +23,13 @@ Depending on the application you use, you may not be able to preview the formatt
 You might be wondering why people use Markdown instead of a WYSIWYG editor. Why write with Markdown when you can press buttons in an interface to format your text? As it turns out, there are several reasons why people use Markdown instead of WYSIWYG editors.
 
 - Markdown can be used for everything. People use it to create 
--   websites
--   documents
--   notes
--   books
--   presentations
--   email messages
--   technical documentation.
+    - websites
+    - documents
+    - notes
+    - books
+    - presentations
+    - email messages
+    - technical documentation.
 
 Markdown is portable. Files containing Markdown-formatted text can be opened using virtually any application. If you decide you don’t like the Markdown application you’re currently using, you can import your Markdown files into another Markdown application. That’s in stark contrast to word processing applications like Microsoft Word that lock your content into a proprietary file format.
 
