@@ -39,3 +39,8 @@ This is different from a fixed mindset, which assumes that intelligence and tale
 >But nothing is as painful as staying somewhere you don't belong.  
 >-Mandy Hale
 
+### 2. Growth Mindset Reminders
+
+1. Always believe that something *wonderful* it about to happen.  
+2. Stop waiting to live.  
+3. Be the BEST version of yourself.  
