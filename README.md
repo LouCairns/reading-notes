@@ -21,6 +21,7 @@ Outside of work I enjoy:
 - Re-finishing furniture (Keeps the costs down when living in a reno!)
 - Trawling charity shops
 - Cooking and eating lovely food!
+
 ***
 
 ### 2. Table of Contents
