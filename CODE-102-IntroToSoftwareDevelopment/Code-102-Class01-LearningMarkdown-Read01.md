@@ -1,4 +1,4 @@
-# Read: 01 - Learning Markdown SUMMARY
+# Code 102 - Intro to Software Development - Class 01 - Learning Markdown - Read 01
 
 ### 1 - What is Markdown?
 ***

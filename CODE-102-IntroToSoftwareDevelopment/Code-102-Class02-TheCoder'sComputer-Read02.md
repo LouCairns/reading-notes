@@ -1,4 +1,4 @@
-# Read: 02 - The Coder's Computer (Summary)
+# Code 102 - Intro to Software Development - Class 02 - The Coder's Computer - Read 02
 
 ### INSTRUCTIONS
 ***
