@@ -121,3 +121,22 @@ let z = x + y;
 User Input.
 
 In JavaScript, we use the prompt() function to ask the user for input. As a parameter, we input the text we want to display to the user. Once the user presses “ok,” the input value is returned. We typically store user input in a variable so that we can use the information in our program
+
+### JavaScript Identifiers
+
+All JavaScript **variables** must be **identified** with **unique names**.
+
+These unique names are called **identifiers**.
+
+Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).
+
+The general rules for constructing names for variables (unique identifiers) are:
+
+- Names can contain letters, digits, underscores, and dollar signs.
+- Names must begin with a letter.
+- Names can also begin with $ and _ (but we will not use it in this tutorial).
+- Names are case sensitive (y and Y are different variables).
+- Reserved words (like JavaScript keywords) cannot be used as names.
+
+>**Note**
+>JavaScript identifiers are case-sensitive.
