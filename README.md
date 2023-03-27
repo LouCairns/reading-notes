@@ -28,19 +28,19 @@ Outside of work I enjoy:
 
 #### CODE 102 - Intro to Software Development
 
-[Code 102 - Class 01 - Learning Markdown - Lab 01](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class01-LearningMarkdown-Lab01)
+[Code 102 - Class 01 - Learning Markdown - Lab 01](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class01-Lab01-LearningMarkdown)
 
-[Code 102 - Class 01 - Learning Markdown - Read 01](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class01-LearningMarkdown-Read01)
+[Code 102 - Class 01 - Learning Markdown - Read 01](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class01-Read01-LearningMarkdown)
 
-[Code 102 - Class 02 - The Coder's Computer - Read 02](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class02-TheCoder'sComputer-Read02)
+[Code 102 - Class 02 - The Coder's Computer - Read 02](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class02-Read02-TheCoder'sComputer)
 
-[Code 102 - Class 03 - Revisions and the Cloud](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class03-RevisionsAndTheCloud)
+[Code 102 - Class 03 - Revisions and the Cloud](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class03-Read03-RevisionsAndTheCloud)
 
-[Code 102 - Class 04 - Structure Web Pages with HTML](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class04-StructureWebPagesWithHTML)
+[Code 102 - Class 04 - Structure Web Pages with HTML](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class04-Read04-StructureWebPagesWithHTML)
 
 [Code 102 - Class 05 - Design Web Pages with HTML](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class05-DesignWebPagesWithHTML)
 
-[Code 102 - Class 06 - Activate Web Pages with JavaScript](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class06-ActivateWebPagesWithJavaScript)
+[Code 102 - Class 06 - Activate Web Pages with JavaScript](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class06-Read06-ActivateWebPagesWithJavaScript)
 
 [Code 102 - Class 07 - Programming with JavaScript](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class07-Read07-ProgrammingWithJavaScript)
 
