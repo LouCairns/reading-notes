@@ -67,7 +67,55 @@ document.getElementById("demo").innerHTML =
 
 
 2. What does it mean to declare a variable?
+
+Creating a variable in JavaScript is called "declaring" a variable.
+
+You declare a JavaScript variable with the var or the let keyword:
+
+>var carName;
+or:
+>let carName;
+
+After the declaration, the variable has no value (technically it is undefined).
+
+To assign a value to the variable, use the equal sign:
+
+>carName = "Volvo";
+
+You can also assign a value to the variable when you declare it:
+
+>let carName = "Volvo";
+
+In the example below, we create a variable called ```carName``` and assign the value "Volvo" to it.
+
+Then we "output" the value inside an HTML paragraph with id="demo":
+
+Example
+```
+<p id="demo"></p>
+
+<script>
+let carName = "Volvo";
+document.getElementById("demo").innerHTML = carName;
+</script>
+```
+
 3. What is an “assignment” operator, and what does it do?
+
+The Assignment Operator (```=```) assigns a value to a variable:
+
+Assignment Examples
+
+```
+>let x = 10;
+>// Assign the value 5 to x
+>let x = 5;
+>// Assign the value 2 to y
+>let y = 2;
+>// Assign the value x + y to z:
+>let z = x + y;
+```
+
 4. What is information received from the user called?
 
 ### Submission Instructions
