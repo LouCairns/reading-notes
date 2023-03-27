@@ -117,4 +117,3 @@ let z = x + y;
 ```
 
 4. What is information received from the user called?
-
