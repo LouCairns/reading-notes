@@ -117,3 +117,7 @@ let z = x + y;
 ```
 
 4. What is information received from the user called?
+
+User Input.
+
+In JavaScript, we use the prompt() function to ask the user for input. As a parameter, we input the text we want to display to the user. Once the user presses “ok,” the input value is returned. We typically store user input in a variable so that we can use the information in our program
