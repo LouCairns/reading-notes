@@ -42,7 +42,7 @@ Outside of work I enjoy:
 
 [Code 102 - Class 06 - Activate Web Pages with JavaScript](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class06-ActivateWebPagesWithJavaScript)
 
-[Code 102 - Class 07 - Programming with JavaScript](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class07-ProgrammingWithJavaScript)
+[Code 102 - Class 07 - Programming with JavaScript](/home/loucairns/Projects/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class07-Read07-ProgrammingWithJavaScript.md)
 
 [Code 102 - Class 08 - Operators and Loops](https://LouCairns.github.io/reading-notes/CODE-102-IntroToSoftwareDevelopment/Code-102-Class08-OperatorsAndLoops)
 
